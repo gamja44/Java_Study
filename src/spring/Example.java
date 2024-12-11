@@ -7,7 +7,7 @@ public class Example {
 		// test
 		int result = 1 + 1;
 		System.out.println("Test 성공");
-		System.out.println(result);
+		
 	}
 
 }
