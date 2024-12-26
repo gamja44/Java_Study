@@ -1,4 +1,4 @@
-package spring;
+package app;
 
 public class Example {
 
